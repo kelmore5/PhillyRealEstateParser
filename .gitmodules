@@ -1,0 +1,6 @@
+[submodule "lib/utils"]
+	path = lib/utils
+	url = https://github.com/kelmore5/python-utilities
+[submodule "lib/SeleniumBrowser"]
+	path = lib/SeleniumBrowser
+	url = https://github.com/kelmore5/SeleniumBrowser
