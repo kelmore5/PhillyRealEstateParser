@@ -23,6 +23,8 @@ Data is parsed by the script via a pre-defined list of addresses within a CSV fi
 address to be parsed in the A (or first) column of the spreadsheet to be read by the script. There is no limit
 to the amount of addresses that can be added.
 
+Any address that has a problem while downloading will be output to an Error file with a message explaining the issue.
+
 This project utilizes two other projects of mine: [python-utilities](https://github.com/kelmore5/python-utilities) and [SeleniumBrowser](https://github.com/kelmore5/SeleniumBrowser), both of which
 should already be uploaded within this git repository.
 
@@ -55,6 +57,7 @@ Once downloaded and dependencies are installed, you can run it via
 ## Similar Projects
 
 - [Ebay Keyword Crawler](https://github.com/kelmore5/ebay-keyword-crawler)
+- [Masonic Web Parser](https://github.com/kelmore5/masonic-web-parser)
 
 ## Extra Links
 
