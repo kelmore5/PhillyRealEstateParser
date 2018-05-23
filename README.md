@@ -64,8 +64,8 @@ Once downloaded and dependencies are installed, you can run it via
 
 ## Proof of Concept
 
-You can see a demo from a slideshow I've created [here](https://docs.google.com/presentation/d/1VPjsRnpOAuN5QHK1tTbLZbcRY8SmyyCg2Wh8LCeIB-Y/edit?usp=sharing)
-or you can look at the sample output from [this](https://github.com/kelmore5/philly-real-estate-parser/raw/master/demo/Estates_2018-05-22 18:48:30.xlsx) Excel sheet, screenshotted below.
+You can see a demo from a slideshow I've created [here](https://docs.google.com/presentation/d/1VPjsRnpOAuN5QHK1tTbLZbcRY8SmyyCg2Wh8LCeIB-Y/present)
+or you can look at the sample output from [this](https://github.com/kelmore5/philly-real-estate-parser/raw/master/demo/Estates_2018-05-22%2018:48:30.xlsx) Excel sheet, screenshotted below.
 
 Either way here are some pictures to give a proof of concept (Note: All address information has been voided to protect client data).
 
